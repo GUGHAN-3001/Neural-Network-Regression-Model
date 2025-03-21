@@ -128,19 +128,24 @@ print(f'Prediction: {prediction}')
 ```
 ## Dataset Information
 
-![alt text](<../OneDrive/Desktop/dp ex1/Screenshot 2025-03-21 090842.png>)
+![Screenshot 2025-03-21 090842](https://github.com/user-attachments/assets/a804ec01-fd6d-4792-a8fe-3ecc97d8955a)
+
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
-![alt text](<../OneDrive/Desktop/dp ex1/Screenshot 2025-03-21 091024.png>)
+![Screenshot 2025-03-21 091024](https://github.com/user-attachments/assets/7453271e-a5e2-45cb-bdf2-b1ef642c1b97)
+
+
+
 
 
 
 ### New Sample Data Prediction
 
-![alt text](<../OneDrive/Desktop/dp ex1/Screenshot 2025-03-21 091032.png>)
+![Screenshot 2025-03-21 091032](https://github.com/user-attachments/assets/cace3bd0-7ec9-421c-bd3e-5e761d46a642)
+
 
 
 ## RESULT
