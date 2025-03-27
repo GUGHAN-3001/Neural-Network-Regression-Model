@@ -135,8 +135,8 @@ print(f'Prediction: {prediction}')
 
 ### Training Loss Vs Iteration Plot
 
-![alt text](<Screenshot 2025-03-21 091024 - Copy.png>)
 
+![alt text](<Screenshot 2025-03-21 091024.png>)
 
 
 
